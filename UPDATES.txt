@@ -1,0 +1,3 @@
+27th of August:
+1. Created repo
+2. published Doom3 src files
